@@ -1,0 +1,4 @@
+name    |   inventory   |   order
+default   |   0   |   0
+bmw   |   9   |   3
+honda   |   12   |   0
